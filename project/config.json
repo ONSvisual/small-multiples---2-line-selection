@@ -1,0 +1,141 @@
+{
+    "essential" : {
+			
+            "graphic_data_url": [ "data0.csv" , "data1.csv" , "data2.csv" ],
+			
+			"variables" : [ "data0" , "data1" , "data2" ],
+        
+            "dateFormat":"%Y",
+        
+            "legendLabels" : [ ],
+        
+            "sourceText":["Office for National Statistics"],
+            "sourceURL":["http://www.ons.gov.uk/"],
+        
+            "annotationChart": [
+				"anno0",
+				"",
+				"anno2",
+				"",
+				"anno4",
+				"",
+				"anno6",
+				"",
+				"anno8",
+				"",
+				"anno10",
+				"",
+				"anno12",
+				"",
+				"anno14",
+				""
+            ],
+            "annotationBullet": [
+				"anno0",
+				"anno1",
+				"anno2",
+				"anno3",
+				"anno4",
+				"anno5",
+				"anno6",
+				"anno7",
+				"anno8",
+				"anno9",
+				"anno10",
+				"anno11",
+				"anno12",
+				"anno13",
+				"anno14",
+				"anno15"
+            ],
+            "annotationXY":[
+                ["1940","4"],
+                ["1950","5"],
+                ["1960","6"],
+                ["1970","7"],
+                ["1940","4"],
+                ["1950","5"],
+                ["1960","6"],
+                ["1970","7"],
+                ["1940","4"],
+                ["1950","5"],
+                ["1960","6"],
+                ["1970","7"],
+                ["1940","4"],
+                ["1950","5"],
+                ["1960","6"],
+                ["1970","7"]
+            ],
+            "annotationAlign":[
+				"start",
+				"end",
+				"middle",
+				"end",
+				"start",
+				"end",
+				"middle",
+				"end",
+				"start",
+				"end",
+				"middle",
+				"end",
+				"start",
+				"end",
+				"middle",
+				"end"
+            ],
+            "circles" : false,    
+            "annotationCXCY":[
+                ["1940","4"],
+                ["1950","5"],
+                ["1960","6"],
+                ["1970","7"],
+                ["1940","4"],
+                ["1950","5"],
+                ["1960","6"],
+                ["1970","7"],
+                ["1940","4"],
+                ["1950","5"],
+                ["1960","6"],
+                ["1970","7"],
+                ["1940","4"],
+                ["1950","5"],
+                ["1960","6"],
+                ["1970","7"]
+            ],        
+            "xAxisLabel":"Year",
+            "yAxisLabel":"%",
+            "xAxisScale":"auto_zero_max",
+            "yAxisScale":"auto_min_max",		
+            "xAxisScaleDivisor":1,
+            "yAxisScaleDivisor":1,
+            "yAxisBreak": false,
+            "yAxisBreak_sm_md_lg": [65,65,65] ,
+			"numRows_sm_md_lg":[
+									[8,8,4],
+									[9,3,3],
+									[4,2,2]
+								],
+			"numColumns_sm_md_lg":[
+									[2,2,4],
+									[1,3,3],
+									[1,2,2]
+								]
+    },
+    "optional" : {
+            "margin_sm": [5, 5, 0, 5],
+            "margin_md": [5, 5, 0, 20],
+            "margin_lg": [5, 5, 0, 20],
+            "aspectRatio_sm" : [16,16],
+            "aspectRatio_md" : [16,18],
+            "aspectRatio_lg" : [14,16],
+            "mobileBreakpoint" : 610, 
+            "xAxisTextFormat_sm_md_lg" : ["%y", "%y", "%y"], 
+            "x_num_ticks_sm_md_lg" : [10,10,10],    
+            "y_num_ticks_sm_md_lg" : [4,5,5],    
+            "centre_line" : false,
+            "centre_line_value" :0    
+    }
+}
+
+
